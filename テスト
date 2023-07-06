@@ -1,0 +1,3 @@
+print(“テストテスト”)
+answer = int(input("あなたは初心者YesかNoか"))
+if answer = 
